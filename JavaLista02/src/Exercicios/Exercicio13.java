@@ -8,7 +8,7 @@ public class Exercicio13 {
 
         System.out.println("digite um tamnho para a sequencia de fibonacci: ");
         int n = leitor.nextInt();
-
+      leitor.close();
         int[] fibo = new int[n];
         fibo[0] = 1;
         fibo[1] = 1;
