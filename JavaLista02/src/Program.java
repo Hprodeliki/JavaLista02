@@ -4,7 +4,7 @@ public class Program {
 
   public static void main(String[] args) {
     
-    Exercicio08.executar();
+    Exercicio09.executar();
 
   }
 
